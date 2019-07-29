@@ -1,0 +1,20 @@
+﻿{
+  "options": {
+    "device":"any",
+    "keyboardBaseUri":"https://somelinguist.github.io/mephaakeyman/",
+    "fontBaseUri":"https://somelinguist.github.io/mephaakeyman/"
+  },
+  "keyboard": {
+    "id":"mephaa",
+    "name":"Me\uA78Cphaa",
+    "filename":"mephaa.js",
+    "version":"0.2.0",
+    "lastModified":"2014-04-17T14:07:00+11:00",
+    "languages":[
+      {
+        "id":"tcf",
+        "name":"Me\uA78Cphaa"
+      }
+    ]
+  }
+}
