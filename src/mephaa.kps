@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>11.0.1356.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">Meꞌphaa</Name>
+    <Version URL="">0.3.0</Version>
+    <Copyright URL="">© 2019</Copyright>
+    <Author URL="mailto:admin@somelinguist.org">Kevin Cline</Author>
+    <WebSite URL="https://somelinguist.github.io/mephaakeyman">https://somelinguist.github.io/mephaakeyman</WebSite>
+  </Info>
+  <Files>
+    <File>
+      <Name>mephaa.js</Name>
+      <Description>File mephaa.js</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Meꞌphaa</Name>
+      <ID>mephaa</ID>
+      <Version>0.3.0</Version>
+      <Languages>
+        <Language ID="tcf">Me'phaa</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
